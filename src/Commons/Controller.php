@@ -2,7 +2,6 @@
 
 namespace Admin\OopPhp\Commons;
 
-
 class Controller
 {
 }

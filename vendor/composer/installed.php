@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'admin/oop-php',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '19d9d2c258a0ec9e1157e387294a0ce8e5148317',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'admin/oop-php' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '19d9d2c258a0ec9e1157e387294a0ce8e5148317',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
